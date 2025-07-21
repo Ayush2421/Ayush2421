@@ -14,12 +14,16 @@
 - 📄 Know about my experiences **[ayush2421gupta](https://www.linkedin.com/in/ayush2421gupta)**
 
 - ⚡ Fun fact **Debugging is my cardio**
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ayush2421gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ayush2421gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ayush2421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ayush2421/" height="30" width="40" /></a>
+### 👋 Connect with me:
+
+<p align="center">
+<a href="https://linkedin.com/in/ayush2421gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush2421gupta" height="40" width="40"/></a>
+<a href="https://www.hackerrank.com/ayush2421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayush2421" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayush2421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush2421" height="30" width="40" /></a>
 </p>
+
 
 ### 💻 My Skill Set
 
@@ -58,8 +62,11 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   </a>
 </p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush2421&show_icons=true&locale=en&layout=compact" alt="ayush2421" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush2421&show_icons=true&locale=en" alt="ayush2421" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2421&" alt="ayush2421" /></p>
