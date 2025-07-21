@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at **[Ayush2421](github.com/Ayush2421?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[Ayush2421](Ayush2421)**
 
 - 💬 Ask me about **React, Javascript, HTML, CSS**
 
