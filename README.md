@@ -1,24 +1,17 @@
 <h1 align="center">Hi 👋, I'm AYUSH GUPTA</h1>
 
-
-
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2421&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2421" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush2421" alt="ayush2421" /></a> </p>
-
-- 🔭 I’m currently working on **[NodeJs](NodeJs)**
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at **[Ayush2421](Ayush2421)**
+- 👨‍💻 All of my projects are available at **([Ayush2421](https://github.com/Ayush2421))**
 
 - 💬 Ask me about **React, Javascript, HTML, CSS**
 
 - 📫 How to reach me **ayush2421gupta@gmail.com**
 
-- 📄 Know about my experiences **[ayush2421gupta](linkedin.com/in/ayush2421gupta)**
+- 📄 Know about my experiences **[ayush2421gupta](https://www.linkedin.com/in/ayush2421gupta)**
 
 - ⚡ Fun fact **Debugging is my cardio**
 
